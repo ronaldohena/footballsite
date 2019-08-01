@@ -1,0 +1,169 @@
+
+{
+
+    "articles":[
+        {
+            "id": 1,
+            "team": 3,
+            "title": "First post",
+            "image": "img2.jpg",
+            "date": "20/07/2019",
+            "body": "",
+            "author": "Ronaldo",
+            "tags": ["Vlore","Albania"]
+        },
+        {
+            "id": 2,
+            "team": 2,
+            "title": "Second post",
+            "image": "img3.jpg",
+            "date": "20/07/2019",
+            "body": "",
+            "author": "Ronaldo",
+            "tags": ["Tirane","Albania"]
+        },
+        {
+            "id": 4,
+            "team": 1,
+            "title": "Fourth post",
+            "image": "img4.jpg",
+            "date": "20/07/2019",
+            "body": "",
+            "author": "Ronaldo",
+            "tags": ["Korce","Albania"]
+        },
+        {
+            "id": 5,
+            "team": 3,
+            "title": "Fifth post",
+            "image": "img5.jpg",
+            "date": "20/07/2019",
+            "body": "",
+            "author": "Ronaldo",
+            "tags": ["Vlore","Albania"]
+        },
+        {
+            "id": 6,
+            "team": 1,
+            "title": "Etc post",
+            "image": "img6.jpg",
+            "date": "20/07/2019",
+            "body": "",
+            "author": "Ronaldo",
+            "tags": ["Vlore","Albania"]
+        },
+        {
+            "id": 7,
+            "team": 1,
+            "title": "Last post",
+            "image": "img7.jpg",
+            "date": "20/07/2019",
+            "body": "",
+            "author": "Ronaldo",
+            "tags": ["Vlore","Albania"]
+        }
+    ],
+
+    "videos" : [
+        {
+            "id": 8,
+            "team": 2,
+            "title": "First videos",
+            "image": "",
+            "date": "20/07/2019",
+            "body": "",
+            "author": "Ronaldo",
+            "tags": ["Vlore","Albania"]
+        },
+        {
+            "id": 9,
+            "team": 3,
+            "title": "Second videos",  
+            "image": "",
+            "date": "20/07/2019",
+            "body": "",
+            "author": "Ronaldo",
+            "tags": ["Vlore","Albania"]
+        },
+        {
+            "id": 10,
+            "team": 3,
+            "title": "Third videos",
+            "image": "",
+            "date": "14/05/2018",
+            "body": "",
+            "author": "Roni",
+            "tags": ["Vlore","Albania"]
+        },
+        {
+            "id": 11,
+            "team": 3,
+            "title": "Fourth videos",
+            "image": "",
+            "date": "14/05/2018",
+            "body": "",
+            "author": "Roni",
+            "tags": ["Vlore","Albania"]
+        },
+        {
+            "id": 12,
+            "team": 3,
+            "title": "Last videos",
+            "image": "",
+            "date": "14/05/2018",
+            "body": "",
+            "author": "Roni",
+            "tags": ["Vlore","Albania"]
+        }
+    ],
+
+    "teams": [
+        {
+            "id": 1,
+            "name": "Barcelona",
+            "city": "Barcelona, Spain",
+            "logo": "",
+            "poll": "false",
+            "count": 0,
+            "description": "Mes que un club",
+            "stats": [
+                {
+                    "wins": 37,
+                    "defeats": 2
+                }
+            ]
+        },
+        {
+            "id": 2,
+            "name": "Liverpool",
+            "city": "Liverpool, England",
+            "logo": "",
+            "poll": "false",
+            "count": 0,
+            "description": "You'll Never Walk Alone",
+            "stats": [
+                {
+                    "wins": 23,
+                    "defeats": 11
+                }
+            ]
+        },
+        {
+            "id": 3,
+            "name": "Juventus",
+            "city": "Torino, Italy",
+            "logo": "",
+            "poll": "false",
+            "count": 0,
+            "description": "Winning isn't important, it's the only thing that matters.",
+            "stats": [
+                {
+                    "wins": 25,
+                    "defeats": 8
+                }
+            ]
+        }
+    ]
+
+
+}

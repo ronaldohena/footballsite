@@ -1,0 +1,41 @@
+
+
+.newslist-item {
+    border: 1px solid #2f2f2f;
+    background: #fff;
+    margin-top: 0px;
+    padding:  8px 5px 0 5px;
+}
+
+.newslist-item h2 {
+    font-size: 18px;
+    line-height: 50px;
+    margin: 5px 0;
+    color: #525252;
+}
+
+.newslist-item a {
+    text-decoration:  none;
+    flex-grow: 1;
+}
+
+/* .readmore {
+    background-color: #1b7be9;
+    color: #fff;
+    text-align: center;
+} */
+
+
+
+.newsList_wrapper {
+    box-sizing: border-box;
+    opacity: 0;
+    transform: translateX(-100%);
+    transition: all .5s ease-in;
+    
+}
+
+.newsList_wrapper_enter {
+    opacity: 1;
+    transform: translateX(0)
+}
