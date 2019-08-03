@@ -39,3 +39,38 @@
     opacity: 1;
     transform: translateX(0)
 }
+
+.itemtext{
+    color: black;
+    font-weight: 400;
+    font-size: 18px;
+}
+
+
+.flex {
+    display: flex;
+    border-bottom: 2px solid #5d5d5d;
+    background: #fff;
+}
+
+.left {
+    background-size: cover !important;
+}
+
+.left div {
+    width: 90px;
+    height: 90px;
+    background-size: 40px !important;
+    background-repeat: no-repeat !important;
+    background-position: center center !important;
+}
+
+.right {
+    flex-grow: 1;
+    padding: 10px;
+}
+
+.flex h2{
+    font-size: 18px;
+    color: #525252;
+}

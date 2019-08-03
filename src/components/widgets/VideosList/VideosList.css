@@ -8,3 +8,36 @@
     font-size: 21px;
     
 }
+
+.videosList-item{
+    display: flex;
+    border-bottom: 2px solid #d5d5d5;
+    background: #fff;
+}
+
+.videosList-item h2 {
+    font-size: 18px;
+    color: #525252;
+}
+
+.left {
+    background-size:  cover !important;
+}
+
+.left div {
+    width: 100px;
+    height: 100px;
+    background-size: 40px !important;
+    background-repeat: no-repeat !important;
+    background-position: center center !important;
+    background: url('/images/play.png');
+}
+
+.right {
+    flex-grow:  1;
+    padding: 20px;
+}
+
+.related {
+    margin: 0 5px;
+}

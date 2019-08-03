@@ -5,60 +5,60 @@
         {
             "id": 1,
             "team": 3,
-            "title": "First post",
+            "title": "Roni&Aleksa",
             "image": "img2.jpg",
             "date": "20/07/2019",
-            "body": "",
+            "body": "Gjeja me e bukur ne jete.",
             "author": "Ronaldo",
             "tags": ["Vlore","Albania"]
         },
         {
             "id": 2,
             "team": 2,
-            "title": "Second post",
+            "title": "Gogla",
             "image": "img3.jpg",
             "date": "20/07/2019",
-            "body": "",
+            "body": "Momentet me te bukura ne jete kalohen me ty!",
             "author": "Ronaldo",
             "tags": ["Tirane","Albania"]
         },
         {
             "id": 4,
             "team": 1,
-            "title": "Fourth post",
+            "title": "Drita e syve",
             "image": "img4.jpg",
             "date": "20/07/2019",
-            "body": "",
+            "body": "Falenderoj zotin qe te dergoj ty ne jeten time!",
             "author": "Ronaldo",
             "tags": ["Korce","Albania"]
         },
         {
             "id": 5,
             "team": 3,
-            "title": "Fifth post",
+            "title": "Cuci vogel",
             "image": "img5.jpg",
             "date": "20/07/2019",
-            "body": "",
+            "body": "Je nje mrekulli e madhe brenda nje trupi te vogel",
             "author": "Ronaldo",
             "tags": ["Vlore","Albania"]
         },
         {
             "id": 6,
             "team": 1,
-            "title": "Etc post",
+            "title": "Te dua shume",
             "image": "img6.jpg",
             "date": "20/07/2019",
-            "body": "",
+            "body": "Keshtu do te te dua gjith jeten.",
             "author": "Ronaldo",
             "tags": ["Vlore","Albania"]
         },
         {
             "id": 7,
             "team": 1,
-            "title": "Last post",
+            "title": "Faleminderit",
             "image": "img7.jpg",
             "date": "20/07/2019",
-            "body": "",
+            "body": "Faleminderit per cdo moment qe kemi kaluar bashke",
             "author": "Ronaldo",
             "tags": ["Vlore","Albania"]
         }
@@ -68,52 +68,47 @@
         {
             "id": 8,
             "team": 2,
-            "title": "First videos",
-            "image": "",
+            "title": "Gjeja me e bukur ne jete.",
+            "image": "img10.jpg",
             "date": "20/07/2019",
-            "body": "",
-            "author": "Ronaldo",
+            "url": "v7A82evBJ7M",
             "tags": ["Vlore","Albania"]
         },
         {
             "id": 9,
             "team": 3,
-            "title": "Second videos",  
-            "image": "",
+            "title": "Momentet me te bukura ne jete kalohen me ty!",  
+            "image": "img11.jpg",
             "date": "20/07/2019",
-            "body": "",
-            "author": "Ronaldo",
-            "tags": ["Vlore","Albania"]
+            "url": "3EXH59P3PFw",
+            "tags": ["Tirane","Albania"]
         },
         {
             "id": 10,
             "team": 3,
-            "title": "Third videos",
-            "image": "",
+            "title": "Falenderoj zotin qe te dergoj ty ne jeten time",
+            "image": "img12.jpg",
             "date": "14/05/2018",
-            "body": "",
-            "author": "Roni",
-            "tags": ["Vlore","Albania"]
+            "url": "v7A82evBJ7M",
+            "tags": ["Pogradec","Albania"]
         },
         {
             "id": 11,
             "team": 3,
-            "title": "Fourth videos",
-            "image": "",
+            "title": "Je nje mrekulli e madhe brenda nje trupi te vogel",
+            "image": "img13.jpg",
             "date": "14/05/2018",
-            "body": "",
-            "author": "Roni",
-            "tags": ["Vlore","Albania"]
+            "url": "-JVD_ZtWkkA",
+            "tags": ["Korce","Albania"]
         },
         {
             "id": 12,
             "team": 3,
-            "title": "Last videos",
-            "image": "",
+            "title": "Keshtu do te te dua gjith jeten.",
+            "image": "img14.jpg",
             "date": "14/05/2018",
-            "body": "",
-            "author": "Roni",
-            "tags": ["Vlore","Albania"]
+            "url": "oBGt_qfxmsM",
+            "tags": ["Shkoder","Albania"]
         }
     ],
 
@@ -122,7 +117,7 @@
             "id": 1,
             "name": "Barcelona",
             "city": "Barcelona, Spain",
-            "logo": "",
+            "logo": "barca.png",
             "poll": "false",
             "count": 0,
             "description": "Mes que un club",
@@ -137,7 +132,7 @@
             "id": 2,
             "name": "Liverpool",
             "city": "Liverpool, England",
-            "logo": "",
+            "logo": "liverpool.png",
             "poll": "false",
             "count": 0,
             "description": "You'll Never Walk Alone",
@@ -152,7 +147,7 @@
             "id": 3,
             "name": "Juventus",
             "city": "Torino, Italy",
-            "logo": "",
+            "logo": "juventus.png",
             "poll": "false",
             "count": 0,
             "description": "Winning isn't important, it's the only thing that matters.",
